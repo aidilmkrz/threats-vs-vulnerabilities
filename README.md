@@ -44,7 +44,7 @@ Threats and vulnerabilities are closely related in cybersecurity. Organizations 
 
 | Threat | Vulnerability |
 |-------|---------------|
-| Potential danger to a system | Weakness in a system |
+| Potential danger to a system  Weakness in a system |
 | Example: Malware attack | Example: Outdated software |
 | Example: Phishing email | Example: Weak password |
 | Example: Hacker intrusion | Example: Misconfigured firewall |

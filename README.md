@@ -1,50 +1,9 @@
-# Threats vs Vulnerabilities
+# Threat vs Vulnerability
 
-## Introduction
-In cybersecurity, threats and vulnerabilities are important concepts that affect the security of computer systems and networks.
-
-## What is a Threat?
-A threat is any potential danger that can harm a system or data.
-
-Examples of threats:
-- Malware
-- Phishing attacks
-- Ransomware
-- Hackers
-
-## What is a Vulnerability?
-A vulnerability is a weakness in a system that attackers can exploit.
-
-Examples of vulnerabilities:
-- Weak passwords
-- Outdated software
-- Unpatched operating systems
-- Misconfigured security settings
-
-## Difference Between Threat and Vulnerability
-
-Threat:
-A potential attack that can cause harm.
-
-Vulnerability:
-A weakness that allows the attack to happen.
-
-## Example Scenario
-A hacker sends a phishing email to steal login information.
-
-Threat: Phishing attack  
-Vulnerability: User not aware of phishing emails
-
-## Conclusion
-Threats and vulnerabilities are closely related in cybersecurity. Organizations must identify vulnerabilities and protect systems from potential threats.
-
-
-
-## Difference Between Threat and Vulnerability
-
-| Threat | Vulnerability |
-|-------|---------------|
-| Potential danger to a system | Weakness in a system |
-| Example: Malware attack | Example: Outdated software |
-| Example: Phishing email | Example: Weak password |
-| Example: Hacker intrusion | Example: Misconfigured firewall |
+| Aspect | Threat | Vulnerability |
+|------|------|------|
+| Definition | A potential danger that can cause damage to a system. | A weakness or flaw in a system that can be exploited. |
+| Nature | External or internal attack activity. | Weakness inside the system. |
+| Example | Phishing attack, ransomware, DDoS attack. | Weak password, outdated software, misconfigured firewall. |
+| Role in Attack | The attacker or malicious event. | The security weakness that allows the attack to succeed. |
+| Simple Analogy | A burglar trying to break into a house. | An unlocked door or broken window. |

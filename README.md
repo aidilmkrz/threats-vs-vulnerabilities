@@ -37,3 +37,14 @@ Vulnerability: User not aware of phishing emails
 
 ## Conclusion
 Threats and vulnerabilities are closely related in cybersecurity. Organizations must identify vulnerabilities and protect systems from potential threats.
+
+
+
+## Difference Between Threat and Vulnerability
+
+| Threat | Vulnerability |
+|-------|---------------|
+| Potential danger to a system | Weakness in a system |
+| Example: Malware attack | Example: Outdated software |
+| Example: Phishing email | Example: Weak password |
+| Example: Hacker intrusion | Example: Misconfigured firewall |
